@@ -17,5 +17,3 @@ DeBomber is a Roblox Word Bomb and a JKLM.FUN Bombparty Script that automaticall
 
 ## DeBomber Showcase
 Soon
-
-
